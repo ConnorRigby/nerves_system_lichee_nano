@@ -1,0 +1,2 @@
+source "$NERVES_DEFCONFIG_DIR/package/sunxi-tools-f1c100s/Config.in.host"
+source "$NERVES_DEFCONFIG_DIR/package/sunxi-tools-f1c100s/Config.in"
