@@ -32,6 +32,8 @@ MIX_TARGET=lichee_nano mix firmware.burn
 ## What doesnt work
 
 * rebooting
+* booting from spiflash device. 
+  * This will probably never work with Nerves due to size and speed constraints
 * probably more idk
 
 ## Special Thanks
