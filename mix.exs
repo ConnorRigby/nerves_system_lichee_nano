@@ -76,7 +76,6 @@ defmodule NervesSystemLicheeNano.MixProject do
       "package",
       "rootfs_overlay",
       "boot.scr",
-      "busybox_defconfig",
       "Config.in",
       "external.mk",
       "fwup-revert.conf",
